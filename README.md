@@ -15,10 +15,10 @@
 
   * Front-end: HTML, CSS, JavaScript, React, Figma
   * Back-end: Node.js, Express.js, MongoDB, MySQL, PostgreSQL, Python, Java
+  
+   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
-## 🚀 Projects
 
-  * Here are some of my notable projects that I have worked on:
 
 ## 📫 How to reach me
 
