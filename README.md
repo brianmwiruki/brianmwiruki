@@ -5,7 +5,7 @@
 
 ## 🔭 I’m currently working on
 
-### I'm currently working on building a full-stack e-commerce application using MERN stack.
+ I'm currently working on building a full-stack e-commerce application using MERN stack.
 
 ## 🌱 What I'm currently learning
 
