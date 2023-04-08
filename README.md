@@ -1,7 +1,7 @@
 # Hi there, I'm Brian Mwiruki 👋
 
 
-### I'm a passionate Full Stack Developer with 3 years of experience in building web applications from scratch to deployment. I have worked with a range of technologies, including Python, React, Node.js, MongoDB, and more.
+ I'm a passionate Full Stack Developer with 3 years of experience in building web applications from scratch to deployment. I have worked with a range of technologies, including Python, React, Node.js, MongoDB, and more.
 
 ## 🔭 I’m currently working on
 
