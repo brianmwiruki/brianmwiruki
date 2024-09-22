@@ -13,8 +13,8 @@
 
 ## 💻 Tech Stack
 
- * Front-end: HTML, CSS, JavaScript, React, Figma
- * Back-end: Node.js, Express.js, MongoDB, MySQL, PostgreSQL, Python, Java
+ * Front-end: HTML, CSS, JavaScript, React, Next, Figma
+ * Back-end: Node.js, MongoDB, MySQL, PostgreSQL, Python
 
 
 
